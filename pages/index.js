@@ -14,7 +14,12 @@ export default function Home() {
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
+        <div>
         Read <Link href="/posts/first-post"><a>my first post!</a></Link>
+        </div>
+        <div>
+        Read <Link href="/posts/second-post"><a>my second post!</a></Link>
+        </div>
       </section>
     </Layout>
   )
