@@ -9,13 +9,13 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>These are my favourite games</p>
+        <div>These are my favourite games</div>
         <div><a href="https://warframe.fandom.com/wiki/">Warframe</a>
         </div>
         <div>
         <a href="https://stardewvalleywiki.com/Stardew_Valley_Wiki">Stardew</a>
         </div>
-      
+      <br />
 
         <div>
         Read <Link href="/posts/first-post"><a>my first post!</a></Link>
