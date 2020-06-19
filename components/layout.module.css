@@ -1,8 +1,8 @@
 .container {
-    max-width: 36rem;
-    padding: 0 1rem;
+    max-width: 40rem;
+    padding: 2rem 2rem;
     margin: 3rem auto 6rem;
-    border: 10px solid rgba(26, 27, 39, 0.747);
+    border: 2.5px solid rgba(26, 27, 39, 0.747);
     border-radius: 10px;
   }
   
