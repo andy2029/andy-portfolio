@@ -9,9 +9,10 @@ export default function SecondPost() {
         <title>Second Post</title>
       </Head>
       <h1>I am a student</h1>
+      <img src="https://www.dumpaday.com/wp-content/uploads/2018/04/1-26.jpg"></img>
       <h2>
         <Link href="/">
-          <a>Back to home</a>
+          <a>← Back to home</a>
         </Link>
       </h2>
     </Layout>
